@@ -1,1 +1,2 @@
-# swift-hackathon
+# Swift Hackathon
+CocoaPod-based Swift Hackathon
